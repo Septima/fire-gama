@@ -1,1 +1,0 @@
-gama-local write/output/all_points.xml --xml read/input/all_points.xml

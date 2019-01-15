@@ -32,7 +32,7 @@ _or_ by
 ### Write input file to gama
 Create a gama input file
 
-´´´
+```
 cli.py write [OPTIONS]
 
 Options:
@@ -58,7 +58,7 @@ Options:
   -pf, --parameterfil FILENAME   Fil, som indeholder netværks-parametre og
                                  -attributter  [default: fire-gama.ini]
   --help                         Show this message and exit.
-´´´
+```
 
 
 ### Environment variable
